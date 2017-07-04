@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/pnshr/SOLSV.png?label=ready&title=Ready)](https://waffle.io/pnshr/SOLSV?utm_source=badge)
 # Streetz of Los Santos
 The Streetz of Los Santos is the first and only Grand Theft: Mutli-Player roleplay server based on the story line and concept of the original game. Delivering fun, doubtlessly.
 
